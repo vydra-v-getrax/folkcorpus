@@ -17,21 +17,33 @@
 	<script type="text/javascript">
 $(document).ready(function() {
         $(['#POS', '#case', '#gender', '#number', '#other']).multiselect({
-            buttonWidth: '160px'
+            buttonWidth: '160px',
+		nonSelectedText: 'Выбрать',
+		templates: {
+			li: '<li><a tabindex="0"><label style "white-space: pre-line;"></label></a></li>'
+		}
         });
     });
 </script>
 <script type="text/javascript">
 $(document).ready(function() {
         $(['#mainhero', '#lover', '#giver', '#helper', '#equal', '#enemy']).multiselect({
-            buttonWidth: '300px'
+            buttonWidth: '300px',
+		nonSelectedText: 'Выбрать',
+		templates: {
+			li: '<li><a tabindex="0"><label style "white-space: pre-line;"></label></a></li>'
+		}
         });
     });
 </script>
 <script type="text/javascript">
 $(document).ready(function() {
         $(['#s', '#b', '#res']).multiselect({
-            buttonWidth: '350px'
+            buttonWidth: '350px',
+		nonSelectedText: 'Выбрать',
+		templates: {
+			li: '<li><a tabindex="0"><label style "white-space: pre-line;"></label></a></li>'
+		}
         });
     });
 </script>
