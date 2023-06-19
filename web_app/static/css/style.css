@@ -23,13 +23,15 @@ p {
 .container {
 	width: 1020px;
 	margin: 0 auto;
-	padding: 0 30px;
+	padding: 0;
+	/* padding: 0 30px; */
 	/* margin-bottom: 50px; */
+	
 }
 
 .main-header {
 	padding-top: 35px;
-	padding-bottom: 40px;
+	padding-bottom: 40px; 
 	background-color: #0d560d;
 }
 
@@ -62,24 +64,35 @@ p {
 	border: none;
 	border-radius: 10px;
 	width: 30%;
+	height:50px;
 	margin: auto;
 }
 
 .btn-upper {
-	width: 30px;
-	padding: 17px;
-	margin-left: 50px;
+	
+	padding: 0;
+	margin: 0;
+	width: 200px;
+	float: left;
+	/* margin-left: 40px; */
+	/* padding: 2px 5px 5px 20px; */
+	
+
+
 }
 
 .btn-lower {
-	margin-top: 50px;
-	margin-left: 300px;
-	display: flex;
-	justify-content: center;
+	/* margin-top: 50px; */
+	margin-left: 430px;
+	/* display: flex; */
+	/* justify-content: center; */
+	/* margin: 0 auto; */
 }
 
 .btn-return {
 	background: #404040;
+	margin-left: 450px;
+
 }
 
 .btn:hover {
@@ -410,6 +423,8 @@ option {
 
 .form-td {
 	width: 500px;
+	border-collapse: collapse;
+	border: none;
 }
 
 .input-form {
@@ -481,4 +496,22 @@ table, th, td {
 
 .exactsearch-table table, .exactsearch-table th, .exactsearch-table td {
 	border-collapse: collapse;
+	border: none;
+	border-style: hidden;
+}
+
+.btn-center {
+	display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.form-align {
+	position: relative;
+	width: 300px;
+	float: left;
+	/* padding-top: 1px; */
+	margin-right: 20px;
+	margin-bottom: 20px;
 }
