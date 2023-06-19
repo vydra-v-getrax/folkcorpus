@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><Document>
+    <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Sentence sofa="Sofa" begin="0" end="331" id="null">
+        <de.tudarmstadt.ukp.dkpro.core.api.metadata.type.DocumentMetaData sofa="Sofa" begin="0" end="331" language="x-unspecified" documentTitle="фольклорный%20архив~12-13.%20лирическая%20песня%20(По%20дворочку..." documentId="INITIAL_CAS" documentUri="file:/export/repository/project/6794/document/28901/source/INITI..." collectionId="file:/export/repository/project/6794/document/28901/source/" documentBaseUri="file:/export/repository/project/6794/document/28901/source/" isLastSegment="false">
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="0" end="2" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">
+                <de.tudarmstadt.ukp.dkpro.core.api.metadata.type.TagsetDescription sofa="Sofa" begin="0" end="0" layer="de.tudarmstadt.ukp.dkpro.core.api.syntax.type.dependency.Depende..." name="UD Universal Dependencies (v2)" tags="null" componentName="null" modelLocation="null" modelVariant="null" modelLanguage="null" modelVersion="null" input="false"/>
+                <de.tudarmstadt.ukp.dkpro.core.api.metadata.type.TagsetDescription sofa="Sofa" begin="0" end="0" layer="de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity" name="Named Entity tags" tags="null" componentName="null" modelLocation="null" modelVariant="null" modelLanguage="null" modelVersion="null" input="false"/>
+                <de.tudarmstadt.ukp.dkpro.core.api.metadata.type.TagsetDescription sofa="Sofa" begin="0" end="0" layer="de.tudarmstadt.ukp.dkpro.core.api.transform.type.SofaChangeAnnot..." name="Operation" tags="null" componentName="null" modelLocation="null" modelVariant="null" modelLanguage="null" modelVersion="null" input="false"/>
+                <de.tudarmstadt.ukp.dkpro.core.api.metadata.type.TagsetDescription sofa="Sofa" begin="0" end="0" layer="de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS" name="UD Universal POS tags (v2)" tags="null" componentName="null" modelLocation="null" modelVariant="null" modelLanguage="null" modelVersion="null" input="false"/>
+                <de.tudarmstadt.ukp.dkpro.core.api.metadata.type.TagsetDescription sofa="Sofa" begin="0" end="0" layer="custom.Span" name="Span labels" tags="null" componentName="null" modelLocation="null" modelVariant="null" modelLanguage="null" modelVersion="null" input="false"/>
+                По
+            </de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="3" end="11" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">дворочку</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="12" end="16" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Дуня</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="17" end="20" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">шла</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            &#13;
+
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="22" end="24" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Эх</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="25" end="29" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Дуня</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="30" end="33" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">шла</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            &#13;
+
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="35" end="37" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Ой</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="38" end="40" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">да</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="41" end="47" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">словно</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="48" end="54" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">лебедь</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="55" end="63" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">проплыла</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            &#13;
+
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="65" end="70" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Эх-ох</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="71" end="73" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">да</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="74" end="80" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">словно</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="81" end="87" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">лебедь</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="88" end="96" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">проплыла</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            &#13;
+
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="98" end="100" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Да</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="100" end="101" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">,</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="102" end="108" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">словно</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="109" end="115" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">лебедь</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="116" end="124" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">проплыла</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="125" end="133" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">проплыла</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            &#13;
+
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="135" end="137" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Ой</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="138" end="140" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">да</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="141" end="148" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">молодцу</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="149" end="155" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">сердце</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="156" end="162" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">зажгла</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            &#13;
+
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="164" end="166" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Эх</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="167" end="169" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">ох</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="170" end="177" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">молодцу</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="178" end="184" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">сердце</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="185" end="191" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">зажгла</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            &#13;
+
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="193" end="198" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Знать</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="199" end="210" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">мальчоночка</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="211" end="213" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">да</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="214" end="217" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">был</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="218" end="220" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">не</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="221" end="225" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">глуп</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            &#13;
+
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="227" end="229" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Да</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="229" end="230" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">,</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="231" end="233" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">да</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="234" end="239" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">зашел</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="240" end="241" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">к</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="242" end="246" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Дуне</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="247" end="249" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">он</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             &#13;
+
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="252" end="254" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Не</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="255" end="260" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">вдруг</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="260" end="261" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">,</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="262" end="264" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">ой</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="265" end="267" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">да</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            &#13;
+
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="269" end="274" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Зашел</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="275" end="276" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">к</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="277" end="281" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Дуне</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="282" end="284" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">он</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="285" end="287" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">не</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="288" end="293" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">вдруг</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            &#13;
+
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="295" end="297" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Ой</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="298" end="300" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">да</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="301" end="309" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">затворил</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="310" end="312" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">он</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="313" end="318" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">двери</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            &#13;
+
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="320" end="322" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Да</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="323" end="325" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">на</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="326" end="330" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">ключ</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="330" end="331" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">.</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+        </de.tudarmstadt.ukp.dkpro.core.api.metadata.type.DocumentMetaData>
+    </de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Sentence>
+</Document>
